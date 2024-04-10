@@ -42,15 +42,7 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-    <dependency>
-    	<groupId>Nagarro</groupId>
-    	<artifactId>SeleniumAssignment</artifactId>
-    	<version>0.0.1-SNAPSHOT</version>
-    </dependency>
-    <dependency>
-    	<groupId>CucumberJAVA</groupId>
-    	<artifactId>CucumberAssignment</artifactId>
-    	<version>0.0.1-SNAPSHOT</version>
-    </dependency>
+  
+    
   </dependencies>
 </project>
